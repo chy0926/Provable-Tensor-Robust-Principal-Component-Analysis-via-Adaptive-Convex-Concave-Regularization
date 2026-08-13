@@ -30,8 +30,4 @@ The datasets used in the experiments are placed in the `data/` directory.
 
 Run the corresponding MATLAB scripts from the repository root directory.
 
-The main implementation of the proposed AC2-TRPCA method is located at:
-
-`RPCA_Code/ATNN_RPCAsep_HOU.m`
-
 All paths in the released scripts are configured as relative paths to facilitate reproducibility across different machines.
